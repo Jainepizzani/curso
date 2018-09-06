@@ -1,0 +1,23 @@
+To do List:
+
+1 - Comentar os codes																				- check
+2 - No editar materia, A option do professor da materia ficar em primeira option					- check
+7 - pagina de cadastro																				- check
+6 - pagina de login																					- check
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+3 - fazer o editar funcionar																		- working
+4 - nova tabela para novos assuntos																	-
+5 - Já pensar/fazer pagina de assuntos																-
+8 - pagina de trabalhos																				-
+9 - pagina de professores																			-
+10 - pagina das aulas																				-
+11 - pagina para os usuarios																		-
+12 - Colocar a data dos assuntos no site															- working
+13 - 						
+
+
+
